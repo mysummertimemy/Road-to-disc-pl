@@ -1,0 +1,12 @@
+v10:
+changed line:
+@285 in bg1.tra
+
+new lines:
+
+-BG1.tra: @357
+
+-brage_bgqe_bragessword.tra: @0
+
+
+
