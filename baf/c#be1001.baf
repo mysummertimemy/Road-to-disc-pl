@@ -1,6 +1,0 @@
-IF
-	Global("C#BE_GraveIncident","GLOBAL",7)
-THEN
-	RESPONSE #100
-		EscapeAreaDestroy(5)
-END

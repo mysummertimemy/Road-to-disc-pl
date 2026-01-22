@@ -1,7 +1,0 @@
-IF
-	See(Player1)
-	Global("C#BrageSummoned","GLOBAL",2)
-THEN
-	RESPONSE #100
-		Dialogue([PC])
-END
